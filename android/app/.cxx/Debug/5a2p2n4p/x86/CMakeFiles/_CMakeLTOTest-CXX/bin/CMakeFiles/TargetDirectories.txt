@@ -1,0 +1,4 @@
+/home/turbo/Desktop/app/MatchVoice/android/app/.cxx/Debug/5a2p2n4p/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/turbo/Desktop/app/MatchVoice/android/app/.cxx/Debug/5a2p2n4p/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/turbo/Desktop/app/MatchVoice/android/app/.cxx/Debug/5a2p2n4p/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/turbo/Desktop/app/MatchVoice/android/app/.cxx/Debug/5a2p2n4p/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
